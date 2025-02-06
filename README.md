@@ -106,7 +106,7 @@ Running Flavorfleet
 
 1. Clone the repository :
 ```shell
-git clone https://github.com/sagnik3788/FlavorFleet.git  
+github.com/sakshitajd/Flavor_Feet.git 
 ```
 
 2. Install Dependencies:
